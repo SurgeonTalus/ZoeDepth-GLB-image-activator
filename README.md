@@ -1,4 +1,4 @@
-# ZoeDepth GLB Image Activator Addon
+# ZoeDepth GLB Image Activator Addon for Blender
 
 ## Overview
 When using **ZoeDepth**'s "Image to 3D" feature, the resulting `.glb` file may lack the image or color information. This addon restores the image projection by adding a **Principled BSDF** shader with an **Attribute node** connected to the **Base Color** input.
